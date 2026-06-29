@@ -1,8 +1,8 @@
 # CS224W-Machine-Learning-with-Graphs
-This repo contains all the learning materials for CS224W: Machine Learning with Graphs.  
+This repo contains all the learning materials for CS224W: Machine Learning with Graphs(Fall 2025).  
 
 # Course Website
-[CS224W: Machine Learning with Graphs (Fall 2025)](https://web.stanford.edu/class/cs224w/)  
+[CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)  
 
 # Colabs  
 The specific implementation of each Colab:  
